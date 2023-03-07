@@ -1,7 +1,7 @@
 {
    "name": "weather-app",
    "version": "0.1.0",
-   "home": "https://gitkuzeyyegul.github.io/my-weather-api",
+   "homepage": "https://gitkuzeyyegul.github.io/weather-app",
    "private": true,
    "dependencies": {
       "react": "^18.2.0",
